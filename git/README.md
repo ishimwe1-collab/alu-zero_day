@@ -1,1 +1,1 @@
-My first git directory readme
+HELLO SOUP
