@@ -1,1 +1,1 @@
-HELLO SOUP
+This is the git directory
